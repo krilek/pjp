@@ -1,0 +1,3 @@
+Proj1	Ania	Basia	Marcin	Kuba
+Proj2	Ania	Basia	Jozek	Antoni
+Proj3	Marcin	Kuba

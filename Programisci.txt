@@ -1,0 +1,12 @@
+Ania Proj1	Proj2
+Basia Proj1	Proj2
+Marcin Proj1	Proj3
+Kuba Proj1	Proj3
+Jozek Proj2
+Antoni Proj2
+Ania Proj1	Proj2
+Basia Proj1	Proj2
+Marcin Proj1	Proj3
+Kuba Proj1	Proj3
+Jozek Proj2
+Antoni Proj2
